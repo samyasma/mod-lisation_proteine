@@ -1,0 +1,63 @@
+CLUSTAL W formatted alignment obtained with AlignMe 1.1
+
+BETT;________   MTDLSHSREKDKINPVVFYTSAGLILLFSLTTILFRDFSALWIGRTLDWVSKTFGWYYLL
+4DOJ_B;______   -----------SLNWSVIVPALVIVLATVVWGIGFKDSFTNFASSALSAVVDNLGWAFIL
+                             *  *        *      * * *         *  *    **   *
+
+
+BETT;________   AATLYIVFVVCIACSRFGSVKLGPEQSKPEFSLLSWAAMLFAAGIGIDLMFFSVAEPVTQ
+4DOJ_B;______   FGTVFVFFIVVIAASKFGTIRLGRIDEAPEFRTVSWISMMFAAGMGIDLMFYGTTEPLTF
+                  *    * * ** * **   **     ***   **  * **** ******    ** * 
+
+
+BETT;________   YMQPPEGAGQTIEAARQAMVWTLFHYGLTGWSMYALMGMALGYFSYRYNLPLTIRSALYP
+4DOJ_B;______   YRNGVPG--HDEHNVGVAMSTTMFHWTLHPWAIYAIVGLAIAYSTFRVGRKQLLSSAFVP
+                *     *          **  * **  *  *  **  * *  *   *        **  *
+
+
+BETT;________   IFGKR-INGPIGHSVDIAAVIGTIFGIATTLGIGVVQLNYGLSVLFDIPDSMAAKAALIA
+4DOJ_B;______   LIGEKGAEGWLGKLIDILAIIATVFGTACSLGLGALQIGAGLSAANIEDPSDWTIVGIVS
+                  *     *  *   ** * * * ** *  ** *  *   ***       *         
+
+
+BETT;________   LSVIIATISVTSGVDKGIRVLSELNVALALGLILFVLFMGDTSFLLNALVLNVGDYVNRF
+4DOJ_B;______   VLTLAFIFSAISGVGKGIQYLSNANMVLAALLAIFVFVVGPTVSILNLLPGSIGNYLSNF
+                        *  *** ***  **  *  **  *  **   * *   ** *    * *   *
+
+
+BETT;________   MGMTLNSFAFDRPV--EWMNNWTLFFWAWWVAWSPFVGLFLARISRGRTIRQFVLGTLII
+4DOJ_B;______   FQMAGRTAMSADGTAGEWLGSWTIFYWAWWISWSPFVGMFLARISRGRSIREFILGVLLV
+                  *             **   ** * ****  ****** ********* ** * ** *  
+
+
+BETT;________   PFTFTLLWLSVFGNSALYEIIHGGAAFAEEAMVHPERGFYSLLAQYPAFTFSASVATITG
+4DOJ_B;______   PAGVSTVWFSIFGGTAIVFEQNGESIWGD---GAAEEQLFGLLHALPGGQIMGIIAMILL
+                *      * * **  *      *            *     **   *        * *  
+
+
+BETT;________   LLFYVTSADSGALVLGNFTSQLKDINSDAPGWLRVFWSVAIGLLTLGMLMTNG---ISAL
+4DOJ_B;______   GTFFITSADSASTVMGTMSQHGQL---EANKWVTAAWGVATAAIGLTLLLSGGDNALSNL
+                  *  *****   * *            *  *    * **     *  *   *    * *
+
+
+BETT;________   QNTTVIMGLPFSFVIFFVMAGLYKSLKVEDYRRESANRDTAPRPLGLQDRLSWKKRLSRL
+4DOJ_B;______   QNVTIVAATPFLFVVIGLMFALVKDLSNDVIYLEYREQQR--------------------
+                ** *     ** **    *  * * *       *                          
+
+
+BETT;________   MNYPGTRYTKQMMETVCYPAMEEVAQELRLRGAYVELKSLPPEEGQQLGHLDLLVHMGEE
+4DOJ_B;______   ------------------------------------------------------------
+                                                                            
+
+
+BETT;________   QNFVYQIWPQQYSVPGFTYRARSGKSTYYRLETFLLEGSQGNDLMDYSKEQVITDILDQY
+4DOJ_B;______   ------------------------------------------------------------
+                                                                            
+
+
+BETT;________   ERHLNFIHLHREAPGHSVMFPDA
+4DOJ_B;______   -----------------------
+                                       
+
+Sequence identity: 25.48% 
+Matched Positions: 72.47%

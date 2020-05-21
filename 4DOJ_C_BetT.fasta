@@ -1,0 +1,63 @@
+CLUSTAL W formatted alignment obtained with AlignMe 1.1
+
+sp|P0ABC9|BET   MTDLSHSREKDKINPVVFYTSAGLILLFSLTTILFRDFSALWIGRTLDWVSKTFGWYYLL
+4DOJ_C_______   -----------SLNWSVIVPALVIVLATVVWGIGFKDSFTNFASSALSAVVDNLGWAFIL
+                             *  *        *      * * *         *  *    **   *
+
+
+sp|P0ABC9|BET   AATLYIVFVVCIACSRFGSVKLGPEQSKPEFSLLSWAAMLFAAGIGIDLMFFSVAEPVTQ
+4DOJ_C_______   FGTVFVFFIVVIAASKFGTIRLGRIDEAPEFRTVSWISMMFAAGMGIDLMFYGTTEPLTF
+                  *    * * ** * **   **     ***   **  * **** ******    ** * 
+
+
+sp|P0ABC9|BET   YMQPPEGAGQTIEAARQAMVWTLFHYGLTGWSMYALMGMALGYFSYRYNLPLTIRSALYP
+4DOJ_C_______   YRNGVPG--HDEHNVGVAMSTTMFHWTLHPWAIYAIVGLAIAYSTFRVGRKQLLSSAFVP
+                *     *          **  * **  *  *  **  * *  *   *        **  *
+
+
+sp|P0ABC9|BET   IFGKR-INGPIGHSVDIAAVIGTIFGIATTLGIGVVQLNYGLSVLFDIPDSMAAKAALIA
+4DOJ_C_______   LIGEKGAEGWLGKLIDILAIIATVFGTACSLGLGALQIGAGLSAANIDPS----DWTIVG
+                  *     *  *   ** * * * ** *  ** *  *   ***     *           
+
+
+sp|P0ABC9|BET   LSVIIATISVTSGVDKGIRVLSELNVALALGLILFVLFMGDTSFLLNALVLNVGDYVNRF
+4DOJ_C_______   IVSVLTLAFIFSAISKGIQYLSNANMVLAALLAIFVFVVGPTVSILNLLPGSIGNYLSNF
+                           *   ***  **  *  **  *  **   * *   ** *    * *   *
+
+
+sp|P0ABC9|BET   MGMTLNSFAFDRPV--EWMNNWTLFFWAWWVAWSPFVGLFLARISRGRTIRQFVLGTLII
+4DOJ_C_______   FQMAGRTAMSADGTAGEWLGSWTIFYWAWWISWSPFVGMFLARISRGRSIREFILGVLLV
+                  *             **   ** * ****  ****** ********* ** * ** *  
+
+
+sp|P0ABC9|BET   PFTFTLLWLSVFGNSALYEIIHGGAAFAEEAMVHPERGFYSLLAQYPAFTFSASVATITG
+4DOJ_C_______   PAGVSTVWFSIFGGTAIVFEQNGESIWGD---GAAEEQLFGLLHALPGGQIMGIIAMILL
+                *      * * **  *      *            *     **   *        * *  
+
+
+sp|P0ABC9|BET   LLFYVTSADSGALVLGNFTSQLKDINSDAPGWLRVFWSVAIGLLTLGMLMTNG---ISAL
+4DOJ_C_______   GTFFITSADSASTVMGTMSQHGQL---EANKWVTAAWGVATAAIGLTLLLSGGDNALSNL
+                  *  *****   * *            *  *    * **     *  *   *    * *
+
+
+sp|P0ABC9|BET   QNTTVIMGLPFSFVIFFVMAGLYKSLKVEDYRRESA-----------NRDTAPRPLGLQD
+4DOJ_C_______   QNVTIVAATPFLFVVIGLMFALVKDLSNDVIYLEYREQQRFNARLARERR----------
+                ** *     ** **    *  * * *       *              *           
+
+
+sp|P0ABC9|BET   RLSWKKRLSRLMNYPGTRYTKQMMETVCYPAMEEVAQELRLRGAYVELKSLPPEEGQQLG
+4DOJ_C_______   ------------------------------------------------------------
+                                                                            
+
+
+sp|P0ABC9|BET   HLDLLVHMGEEQNFVYQIWPQQYSVPGFTYRARSGKSTYYRLETFLLEGSQGNDLMDYSK
+4DOJ_C_______   ------------------------------------------------------------
+                                                                            
+
+
+sp|P0ABC9|BET   EQVITDILDQYERHLNFIHLHREAPGHSVMFPDA
+4DOJ_C_______   ----------------------------------
+                                                  
+
+Sequence identity: 24.78% 
+Matched Positions: 70.61%
